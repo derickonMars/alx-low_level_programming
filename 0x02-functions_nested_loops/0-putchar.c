@@ -4,6 +4,7 @@
  * main - print _putchar, followed by a newline
  * Return: Always 0 (victory)
  */
+
 int main(void)
 {
 	_putchar('_');
